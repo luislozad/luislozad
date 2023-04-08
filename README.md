@@ -6,4 +6,4 @@ Hello, I'm Luis a developer passionate about Front-End I really like the interfa
 - 🌱 I’m currently learning UX/UI
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about: Javascript, Typescript, ReactJS
-- 📫 How to reach me:  Envíame un DM a Twitter o por Email
+- 📫 How to reach me:  Send me a DM to Twitter or by Email
